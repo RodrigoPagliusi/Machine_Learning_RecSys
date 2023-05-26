@@ -20,6 +20,7 @@ Nesse arquivo há diversos hiperparâmetros de treinamento que podem ser ajustad
 Explicações sobre eles estão nos comentários do código.
 
 
+
 Os dados estão divididos por padrão em 5-Folds e há dados para rodar 20 epochs no máximo.
 
 Com 5-Folds se consegue 60% de dados para treino, 20% para validação e 20% para teste.
