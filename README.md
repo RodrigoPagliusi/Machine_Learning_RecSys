@@ -6,6 +6,7 @@ Este projeto utiliza como base os dois modelos:
 - https://dl.acm.org/doi/abs/10.1145/3523227.3546757
 
 O segundo é artigo uma extensão do primeiro.
+
 Este projeto visa adicionar uma terceira extensão para mitigar um problema de performance encontrado e
 mitigar ainda mais o viés de popularidade na função objetivo.
 
@@ -13,6 +14,7 @@ O viés de popularidade ocorre quando dois itens são igualmente apreciados por 
 um deles se sobressai apenas pelo fato de ser popular.
 
 Para treinar, validar e testar o modelo rode o arquivo: main_basic.py
+
 Nesse arquivo há diversos hiperparâmetros de treinamento que podem ser ajustados.
 Explicações sobre eles estão nos comentários do código.
 
